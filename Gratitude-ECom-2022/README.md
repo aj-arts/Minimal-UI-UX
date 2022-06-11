@@ -1,2 +1,2 @@
-This repository contains assests for [http://gratitudeorganicproducts.com/
-](Gratitude Organic Products)
+This repository contains assests for [Gratitude Organic Products](http://gratitudeorganicproducts.com/
+)
